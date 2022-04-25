@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "552401036888",
+    "project_id": "smartagri-68b62",
+    "storage_bucket": "smartagri-68b62.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:552401036888:android:d280a81a08221e730d0c2d",
+        "android_client_info": {
+          "package_name": "com.example.smartagri"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "552401036888-qmjc8ffqqn2n5gou5einss6ju36298t9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWnoPC0XqStdSLsQzK-VvHTY8DspJnYlM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "552401036888-qmjc8ffqqn2n5gou5einss6ju36298t9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
