@@ -16,6 +16,7 @@ import 'package:smartagri/src/views/auth/sign_in.dart';
 import 'package:smartagri/src/views/auth/sign_up.dart';
 
 import 'package:smartagri/src/views/home/home_screen.dart';
+import 'package:smartagri/src/views/home/map.dart';
 
 //import 'package:stepping_stones/src/views/profile/profile.dart';
 
@@ -103,6 +104,9 @@ class _AppState extends State<App> {
                   break;
                 case SignIn.routeName:
                   page = const SignIn();
+                  break;
+                case MapD.routeName:
+                  page = const MapD();
                   break;
                 case HomeScreenView.routeName:
                   // ignore: prefer_const_constructors
